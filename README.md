@@ -6,7 +6,7 @@ Semantic segmentation demo bases on [tensorflow official demo](https://github.co
 To use the demo, you should download pretrain_model(**mobilenetv2_coco_voc_trainaug** or **mobilenetv2_coco_voc_trainval**) from[here](https://github.com/tensorflow/models/blob/master/research/deeplab/g3doc/model_zoo.md) 
 firstly. 
 
-Then, unzip model file to dir(like pre_train). 
+Then, unzip model file to dir(like ./pre_train). 
 
 Finally run:
 
